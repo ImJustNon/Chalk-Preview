@@ -4,4 +4,4 @@
 
 ![](https://cdn.discordapp.com/attachments/831877886680104971/914438821909778432/unknown.png)
 
-[Frome Here](https://github.com/chalk/chalk)
+https://github.com/chalk/chalk
